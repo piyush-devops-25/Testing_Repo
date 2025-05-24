@@ -1,0 +1,1 @@
+Git takes care of the versions of the file
